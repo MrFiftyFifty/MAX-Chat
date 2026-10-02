@@ -2,7 +2,7 @@
 
 React-чат для отправки и получения текстовых сообщений в MAX через [GREEN-API](https://green-api.com/max).
 
-Нужны Node.js 20+ и авторизованный инстанс MAX в личном кабинете GREEN-API (`apiUrl`, `idInstance`, `apiTokenInstance`).
+Нужны Node.js 24+ (актуальный LTS) и авторизованный инстанс MAX в личном кабинете GREEN-API (`apiUrl`, `idInstance`, `apiTokenInstance`).
 
 ## Запуск
 
