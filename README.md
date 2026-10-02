@@ -11,6 +11,4 @@ npm install
 npm run dev
 ```
 
-Откройте адрес из терминала (обычно `http://localhost:5173`).
-
 Демо: https://mrfiftyfifty.github.io/MAX-Chat/
